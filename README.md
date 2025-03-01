@@ -6,6 +6,10 @@ we found out Predicted Epidemic Duration: 385.84 days
 
 # # Plot the feature importance
 
+Using RandomForestRegressor train model we did plot feature as shown below :
+
+
+
 
   
 
