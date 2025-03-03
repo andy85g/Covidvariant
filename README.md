@@ -122,23 +122,9 @@ plt.xlabel("Feature Importance Score")
 plt.title("Important Features for Epidemic Duration Prediction")
 plt.show()
 
-Future Enhancements
 
-Improve model performance using advanced techniques
 
-Deploy Flask app with an interactive dashboard
 
-Integrate real-time data sources
-
-Extend the model to predict other epidemic-related parameters
-
-Contributing
-
-Feel free to fork this repository and contribute by submitting pull requests.
-
-License
-
-This project is licensed under the MIT License.
 
 
 
