@@ -51,10 +51,11 @@ Clone the repository:
 git clone https://github.com/your-repo.git
 cd your-repo
 Install dependencies:
-
 pip install -r requirements.txt
+
 Run the Flask application:
 python app.py
+
 Data Processing
 Data Cleaning
 Handling missing values using forward fill (fillna(method='ffill'))
@@ -74,7 +75,6 @@ Selecting relevant features: num_seqs, mortality_case_ratio, total_cases, total_
 Model Training
 
 Splitting Data:
-
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 Scaling Data:
